@@ -9,14 +9,13 @@
 **Link to work:** N/A
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: March 7, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed 70% of the Basic CSS course on freeCodeCamp.org
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Still interesting! I remember some of the terminology "margins, borders, padding" from the Wordpress website editors I've used so its cool to see the background code behind all of this. I feel like I am slowly memorising some of the basic foundations (e.g what brackets to use) after doing some of the tutorials which didn't have as much guidance. Looking forward to learning more.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: N/A
 
 
 ### Day 1: June 27, Monday
