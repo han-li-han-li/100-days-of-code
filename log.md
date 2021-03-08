@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 6, 2011 
+### Day 1: March 6, Saturday, 2021
 
 **Today's Progress**: Completed the Basic HTML and HTML5 course on freeCodeCamp.org
 
@@ -9,7 +9,7 @@
 **Link to work:** N/A
 
 
-### Day 2: March 7, 2021
+### Day 2: March 7, Sunday, 2021
 
 **Today's Progress**: Completed 70% of the Basic CSS course on freeCodeCamp.org
 
@@ -18,12 +18,10 @@
 **Link(s) to work**: N/A
 
 
-### Day 1: June 27, Monday
+### Day 3: March 8, Monday, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished the Basic CSS course and around half of the Applied Visual Design course on freeCodeCamp.org
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Getting harder. Had to use a couple of hints and also do some googling to understand some concepts. Still wrapping my head around element positioning especially. But, I now know how hex codes work! At this stage, it's hard to see how people got from this to the beautiful websites we have today.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: N/A
