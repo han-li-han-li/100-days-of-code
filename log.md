@@ -25,3 +25,12 @@
 **Thoughts** Getting harder. Had to use a couple of hints and also do some googling to understand some concepts. Still wrapping my head around element positioning especially. But, I now know how hex codes work! At this stage, it's hard to see how people got from this to the beautiful websites we have today.
 
 **Link(s) to work**: N/A
+
+
+### Day 4: March 9, Tuesday, 2021
+
+**Today's Progress**: Finished the Applied Visual Design course on freeCodeCamp.org
+
+**Thoughts** Getting complex. Have the hang of some concepts e.g style, ID, but other concepts I am struggling to grasp e.g Bezier Curves. I wonder how this all fits together in the end. Following the tutorials is fine but I feel like I would have no idea if left to my own devices.
+
+**Link(s) to work**: N/A
