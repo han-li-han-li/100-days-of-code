@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 6, Saturday, 2021
+### Day 1: Saturday March 6 2021
 
 **Today's Progress**: Completed the Basic HTML and HTML5 course on freeCodeCamp.org
 
@@ -9,7 +9,7 @@
 **Link to work:** N/A
 
 
-### Day 2: March 7, Sunday, 2021
+### Day 2: Sunday March 7 2021
 
 **Today's Progress**: Completed 70% of the Basic CSS course on freeCodeCamp.org
 
@@ -18,7 +18,7 @@
 **Link(s) to work**: N/A
 
 
-### Day 3: March 8, Monday, 2021
+### Day 3: Monday March 8 2021
 
 **Today's Progress**: Finished the Basic CSS course and around half of the Applied Visual Design course on freeCodeCamp.org
 
@@ -27,10 +27,19 @@
 **Link(s) to work**: N/A
 
 
-### Day 4: March 9, Tuesday, 2021
+### Day 4: Tuesday March 9 2021
 
 **Today's Progress**: Finished the Applied Visual Design course on freeCodeCamp.org
 
 **Thoughts** Getting complex. Have the hang of some concepts e.g style, ID, but other concepts I am struggling to grasp e.g Bezier Curves. I wonder how this all fits together in the end. Following the tutorials is fine but I feel like I would have no idea if left to my own devices.
+
+**Link(s) to work**: N/A
+
+
+### Day 5: Wednesday March 10 2021
+
+**Today's Progress**: Finished the Applied Accessibility on freeCodeCamp.org
+
+**Thoughts** This was interesting! It's really heartening to see the work being done to make the internet a more accessible place. It also made me think about all the websites I have amateurly made in the past which didn't keep to these accessibility rules. Also, the amount of elements and attributes for me to know are just heaps! I wonder how developers remember what to use?
 
 **Link(s) to work**: N/A
