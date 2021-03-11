@@ -38,8 +38,17 @@
 
 ### Day 5: Wednesday March 10 2021
 
-**Today's Progress**: Finished the Applied Accessibility on freeCodeCamp.org
+**Today's Progress**: Finished the Applied Accessibility course on freeCodeCamp.org
 
 **Thoughts** This was interesting! It's really heartening to see the work being done to make the internet a more accessible place. It also made me think about all the websites I have amateurly made in the past which didn't keep to these accessibility rules. Also, the amount of elements and attributes for me to know are just heaps! I wonder how developers remember what to use?
+
+**Link(s) to work**: N/A
+
+
+### Day 6: Thursday March 11 2021
+
+**Today's Progress**: Finished the Responsive Web Design Principles and CSS Flexbox courses on freeCodeCamp.org
+
+**Thoughts** Responsive web design course was short and I am still grappling with its ideas (as I am with all of this). The CSS Flexbox course was more straightforward, though I am interested to see how it works in practice. I'm excited to reach the end and start on my project!
 
 **Link(s) to work**: N/A
