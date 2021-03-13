@@ -52,3 +52,13 @@
 **Thoughts** Responsive web design course was short and I am still grappling with its ideas (as I am with all of this). The CSS Flexbox course was more straightforward, though I am interested to see how it works in practice. I'm excited to reach the end and start on my project!
 
 **Link(s) to work**: N/A
+
+
+### Day 7: Saturday March 13 2021
+
+**Today's Progress**: Finished the CSS Grid course on freeCodeCamp.org
+
+**Thoughts** Skipped a day due to social commitments lol. This course was short and sweet, and I feel like I have a good grasp on the concepts. My next task is my first project! Nervously excited to finally be able to create something - I predict it will be difficult but hopefully worth it.
+
+**Link(s) to work**: N/A
+
