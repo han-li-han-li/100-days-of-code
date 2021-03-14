@@ -62,3 +62,11 @@
 
 **Link(s) to work**: N/A
 
+
+### Day 8: Sunday March 14 2021
+
+**Today's Progress**: Created the basic skeleton of my tribute page for freeCodeCamp's project
+
+**Thoughts** Wow! Starting a project without the hand-holding of freeCodeCamp's exercises is tough! A lot of time spent lost/overwhelmed, trying to create the basic foundations my tribute page (it is on Jurgen Klopp). Have managed to build a bassic skeleton though and will need to iron out a heap of kinks before it resembles anything readable. All part of the learning process I guess!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
