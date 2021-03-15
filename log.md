@@ -70,3 +70,12 @@
 **Thoughts** Wow! Starting a project without the hand-holding of freeCodeCamp's exercises is tough! A lot of time spent lost/overwhelmed, trying to create the basic foundations my tribute page (it is on Jurgen Klopp). Have managed to build a bassic skeleton though and will need to iron out a heap of kinks before it resembles anything readable. All part of the learning process I guess!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
+
+
+### Day 9: Monday March 15 2021
+
+**Today's Progress**: Continued to tweak my tribute page for freeCodeCamp's project
+
+**Thoughts** My Jurgen Klopp themed tribute page is slow progress. A lot of things I took for granted on Wordpress editors now need careful html coding, and I have been going back through tutorials and googling to figure out what I need to do. For example, spent a while trying to align the bullet points of an unordered list with the list content. Excited to learn more and get closer to completing my page though!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
