@@ -79,3 +79,12 @@
 **Thoughts** My Jurgen Klopp themed tribute page is slow progress. A lot of things I took for granted on Wordpress editors now need careful html coding, and I have been going back through tutorials and googling to figure out what I need to do. For example, spent a while trying to align the bullet points of an unordered list with the list content. Excited to learn more and get closer to completing my page though!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
+
+
+### Day 10: Tuesday March 16 2021
+
+**Today's Progress**: Continued to tweak my tribute page for freeCodeCamp's project
+
+**Thoughts** Pleased that I made some progress, specifically fixing the alignment of the text, cleaning up some messy CSS and remembering how to make the image responsive. I'm maybe halfway there on this? Best thing today was finding out the editor layout in Codepen where the code is on the side, not on top - a real lifesaver!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
