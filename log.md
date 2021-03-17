@@ -88,3 +88,12 @@
 **Thoughts** Pleased that I made some progress, specifically fixing the alignment of the text, cleaning up some messy CSS and remembering how to make the image responsive. I'm maybe halfway there on this? Best thing today was finding out the editor layout in Codepen where the code is on the side, not on top - a real lifesaver!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
+
+
+### Day 11: Wednesday March 17 2021
+
+**Today's Progress**: Almost finished my tribute page for freeCodeCamp's project
+
+**Thoughts** I have passed the tests! Can't take complete credit as some parts of my website were copied off the freeCodeCamp example but the page is fully functional now. Next step, the "fun" part of researching and writing the content for it. Will try not get distracted by other stuff as I do some research about Jurgen Klopp!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
