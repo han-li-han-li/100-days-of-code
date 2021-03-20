@@ -97,3 +97,12 @@
 **Thoughts** I have passed the tests! Can't take complete credit as some parts of my website were copied off the freeCodeCamp example but the page is fully functional now. Next step, the "fun" part of researching and writing the content for it. Will try not get distracted by other stuff as I do some research about Jurgen Klopp!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
+
+
+### Day 12: Satuday March 20 2021
+
+**Today's Progress**: Finished my tribute page for freeCodeCamp's project
+
+**Thoughts** Missed two days due to busy-ness and laziness. Today was spent on minor refinements to the formatting of the tribute page, as well as writing the content of it. Happy to have finished my first project!
+
+**Link(s) to work**: https://codepen.io/freeCodeCamp/full/zNqgVx
