@@ -99,10 +99,19 @@
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/JjbzoYy
 
 
-### Day 12: Satuday March 20 2021
+### Day 12: Saturday March 20 2021
 
 **Today's Progress**: Finished my tribute page for freeCodeCamp's project
 
 **Thoughts** Missed two days due to busy-ness and laziness. Today was spent on minor refinements to the formatting of the tribute page, as well as writing the content of it. Happy to have finished my first project!
 
 **Link(s) to work**: https://codepen.io/freeCodeCamp/full/zNqgVx
+
+
+### Day 13: Sunday March 21 2021
+
+**Today's Progress**: Started my survey form for freeCodeCamp's project
+
+**Thoughts** Spent a bit of time refreshing how input elements work, and have knocked off 12 of the 17 tests so far. Caveat is that the page is ugly and basic. Will tackle the dropdown field tomorrow. My survey will be about Hip Hop!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
