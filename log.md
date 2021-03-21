@@ -112,6 +112,6 @@
 
 **Today's Progress**: Started my survey form for freeCodeCamp's project
 
-**Thoughts** Spent a bit of time refreshing how input elements work, and have knocked off 12 of the 17 tests so far. Caveat is that the page is ugly and basic. Will tackle the dropdown field tomorrow. My survey will be about Hip Hop!
+**Thoughts** After the inspiration of celebrating my friend Min-Kyu's startup receiving seed funding. Spent a bit of time refreshing how input elements work, and have knocked off 12 of the 17 tests so far. Caveat is that the page is ugly and basic. Will tackle the dropdown field tomorrow. My survey will be about Hip Hop!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
