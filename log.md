@@ -115,3 +115,12 @@
 **Thoughts** After the inspiration of celebrating my friend Min-Kyu's startup receiving seed funding. Spent a bit of time refreshing how input elements work, and have knocked off 12 of the 17 tests so far. Caveat is that the page is ugly and basic. Will tackle the dropdown field tomorrow. My survey will be about Hip Hop!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
+
+
+### Day 14: Monday March 22 2021
+
+**Today's Progress**: Continued building my survey form for freeCodeCamp's project
+
+**Thoughts** Short on time today but managed to finish creating the skeleton of the form, which has now passed all 17 tests. Next step: making it look nice! Still learning also about the best way to code the forms to make them neat to read.
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
