@@ -124,3 +124,12 @@
 **Thoughts** Short on time today but managed to finish creating the skeleton of the form, which has now passed all 17 tests. Next step: making it look nice! Still learning also about the best way to code the forms to make them neat to read.
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
+
+
+### Day 15: Saturday March 27 2021
+
+**Today's Progress**: Styling my survey form for freeCodeCamp's project
+
+**Thoughts** Been really busy this week but finally back onto it. With the form fields all done, spent today styling my form to make it look theme appropriate. Have been inspired by Pen & Pixel's album covers but it's hard finding google fonts to match. Currently it looks terrible but I am hopeful it will look better and by finished soon. Learning heaps!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
