@@ -133,3 +133,12 @@
 **Thoughts** Been really busy this week but finally back onto it. With the form fields all done, spent today styling my form to make it look theme appropriate. Have been inspired by Pen & Pixel's album covers but it's hard finding google fonts to match. Currently it looks terrible but I am hopeful it will look better and by finished soon. Learning heaps!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/XWNvoRG?editors=1100
+
+
+### Day 16: Sunday March 28 2021
+
+**Today's Progress**: Finished my Survey Form for freeCodeCamp's project!
+
+**Thoughts** That was fun! Think it looks silly and over the top enough - though I wish I could have made the font diamond studded (like the cover for 400 Degreez). Still don't have mastery over many things, but have learnt heaps from this build. Let me know any thoughts!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/full/XWNvoRG
