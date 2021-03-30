@@ -142,3 +142,12 @@
 **Thoughts** That was fun! Think it looks silly and over the top enough - though I wish I could have made the font diamond studded (like the cover for 400 Degreez). Still don't have mastery over many things, but have learnt heaps from this build. Let me know any thoughts!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/full/XWNvoRG
+
+
+### Day 17: Tuesday March 30 2021
+
+**Today's Progress**: Started my landing page for freeCodeCamp's project!
+
+**Thoughts** Going to make a landing page for my Rocket League club, "evaS A tahW". Spent most of today figuring out header, nav and refreshing my memory on flexboxes. Still very very early stage. Also had some fun trying out Figma to make a logo. A lot to do.
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
