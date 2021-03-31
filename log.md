@@ -151,3 +151,12 @@
 **Thoughts** Going to make a landing page for my Rocket League club, "evaS A tahW". Spent most of today figuring out header, nav and refreshing my memory on flexboxes. Still very very early stage. Also had some fun trying out Figma to make a logo. A lot to do.
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
+
+
+### Day 18: Wednesday March 31 2021
+
+**Today's Progress**: Continued building my landing page for freeCodeCamp's project!
+
+**Thoughts** Spent most of today figuring out the header bar and how to make it not look shit. Also added a hero image and some text. Slow progress so far but learning heaps which is good!
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
