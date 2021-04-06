@@ -160,3 +160,12 @@
 **Thoughts** Spent most of today figuring out the header bar and how to make it not look shit. Also added a hero image and some text. Slow progress so far but learning heaps which is good!
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
+
+
+### Day 18: Tuesday April 6 2021
+
+**Today's Progress**: Continued building my landing page for freeCodeCamp's project!
+
+**Thoughts** A bit of a easter break but hopefully back to it. Knocked off 15 of the 16 tests today. Only the media query one left. The page skeleton is there though it obviously looks really ugly. It's also missing a lot of content. Heaps of work to be done still, but good to get back onto it.
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
