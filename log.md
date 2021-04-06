@@ -162,7 +162,7 @@
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
 
 
-### Day 18: Tuesday April 6 2021
+### Day 19: Tuesday April 6 2021
 
 **Today's Progress**: Continued building my landing page for freeCodeCamp's project!
 
