@@ -169,3 +169,12 @@
 **Thoughts** A bit of a easter break but hopefully back to it. Knocked off 15 of the 16 tests today. Only the media query one left. The page skeleton is there though it obviously looks really ugly. It's also missing a lot of content. Heaps of work to be done still, but good to get back onto it.
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
+
+
+### Day 20: Thursday June 3 2021
+
+**Today's Progress**: Continued building my landing page for freeCodeCamp's project!
+
+**Thoughts** Back after a really long break - in the meantime I have found a new job and moved countries! A lot of refreshing on basic concepts that I have forgot but made a tiny bit of progress on my page, starting by creating a CSS grid for the members grouping. 
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
