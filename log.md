@@ -178,3 +178,12 @@
 **Thoughts** Back after a really long break - in the meantime I have found a new job and moved countries! A lot of refreshing on basic concepts that I have forgot but made a tiny bit of progress on my page, starting by creating a CSS grid for the members grouping. 
 
 **Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
+
+
+### Day 21: Saturday June 5 2021
+
+**Today's Progress**: Continued building my landing page for freeCodeCamp's project.
+
+**Thoughts** More refreshing of basic concepts. Some progress adding a CSS Grid with titles and pictures, and planning out the values section of my landing page. A lot to catch up on.
+
+**Link(s) to work**: https://codepen.io/han-li-han-li/pen/bGgwPGb?editors=1100
